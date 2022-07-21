@@ -9,7 +9,7 @@ Technology used
 #### Clone the project
 
 ```bash
-  git clone https://github.com/deepanshusingh-hub/sorting_visualiser
+  git clone https://github.com/iprathamjain/sorting_visualiser
 
 ````
 ![Demo Images](ss1.png)
